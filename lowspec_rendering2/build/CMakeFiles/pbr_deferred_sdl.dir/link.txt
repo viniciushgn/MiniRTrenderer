@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pbr_deferred_sdl.dir/deferred_sdl.cpp.o CMakeFiles/pbr_deferred_sdl.dir/src/glad.c.o -o bin/pbr_deferred_sdl  -lSDL2 -ldl -lpthread -lm /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so -lassimp 
